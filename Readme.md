@@ -3,9 +3,9 @@
 
 * [ChangeImageSizeModeAction.cs](./CS/CustomEditorSample/ChangeImageSizeModeAction.cs) (VB: [ChangeImageSizeModeAction.vb](./VB/CustomEditorSample/ChangeImageSizeModeAction.vb))
 * [MainPage.xaml](./CS/CustomEditorSample/MainPage.xaml) (VB: [MainPage.xaml](./VB/CustomEditorSample/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/CustomEditorSample/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/CustomEditorSample/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/CustomEditorSample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/CustomEditorSample/MainPage.xaml.vb))
 * [PictureBoxEditorCreator.cs](./CS/CustomEditorSample/PictureBoxEditorCreator.cs) (VB: [PictureBoxEditorCreator.vb](./VB/CustomEditorSample/PictureBoxEditorCreator.vb))
-* [PictureBoxSizingEditor.xaml](./CS/CustomEditorSample/PictureBoxSizingEditor.xaml) (VB: [PictureBoxSizingEditor.xaml.vb](./VB/CustomEditorSample/PictureBoxSizingEditor.xaml.vb))
+* [PictureBoxSizingEditor.xaml](./CS/CustomEditorSample/PictureBoxSizingEditor.xaml) (VB: [PictureBoxSizingEditor.xaml](./VB/CustomEditorSample/PictureBoxSizingEditor.xaml))
 * [PictureBoxSizingEditor.xaml.cs](./CS/CustomEditorSample/PictureBoxSizingEditor.xaml.cs) (VB: [PictureBoxSizingEditor.xaml.vb](./VB/CustomEditorSample/PictureBoxSizingEditor.xaml.vb))
 * [PictureBoxSizingEditorViewModel.cs](./CS/CustomEditorSample/PictureBoxSizingEditorViewModel.cs) (VB: [PictureBoxSizingEditorViewModel.vb](./VB/CustomEditorSample/PictureBoxSizingEditorViewModel.vb))
 * [ChangeImageSizeModeActionInvoker.cs](./CS/ReportService/ChangeImageSizeModeActionInvoker.cs) (VB: [ChangeImageSizeModeActionInvoker.vb](./VB/ReportService/ChangeImageSizeModeActionInvoker.vb))

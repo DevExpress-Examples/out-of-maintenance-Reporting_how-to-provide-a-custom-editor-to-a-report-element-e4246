@@ -17,9 +17,6 @@
 * [CustomEditorSampleTestPage.aspx](./CS/ReportService/CustomEditorSampleTestPage.aspx) (VB: [CustomEditorSampleTestPage.aspx](./VB/ReportService/CustomEditorSampleTestPage.aspx))
 * [ReportService.svc.cs](./CS/ReportService/ReportService.svc.cs)
 * [SampleReport.cs](./CS/ReportService/SampleReport.cs) (VB: [SampleReport.vb](./VB/ReportService/SampleReport.vb))
-* [jquery-1.4.1.js](./CS/ReportService/Scripts/jquery-1.4.1.js) (VB: [jquery-1.4.1.js](./VB/ReportService/Scripts/jquery-1.4.1.js))
-* [jquery-1.4.1.min.js](./CS/ReportService/Scripts/jquery-1.4.1.min.js) (VB: [jquery-1.4.1.min.js](./VB/ReportService/Scripts/jquery-1.4.1.min.js))
-* [jquery-1.4.1-vsdoc.js](./CS/ReportService/Scripts/jquery-1.4.1-vsdoc.js) (VB: [jquery-1.4.1-vsdoc.js](./VB/ReportService/Scripts/jquery-1.4.1-vsdoc.js))
 * [Site.Master.cs](./CS/ReportService/Site.Master.cs) (VB: [Site.Master.vb](./VB/ReportService/Site.Master.vb))
 <!-- default file list end -->
 # How to provide a custom editor to a report element
